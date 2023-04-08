@@ -1,11 +1,11 @@
 <template>
-  <el-card>
+  <div>
     <router-view></router-view>
-  </el-card>
+  </div>
 </template>
 
 <style scoped>
-.el-card {
-  margin-top: 60px;
+div {
+  overflow: hidden;
 }
 </style>

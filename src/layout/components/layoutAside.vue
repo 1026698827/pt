@@ -102,7 +102,8 @@ $asideColor: #eee;
   width: auto;
   height: 100vh;
   margin-right: 10px;
-  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.2);
+  // box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.2);
+  border-right: 1px solid #dddfe6;
 
   .el-menu {
     width: 200px;
